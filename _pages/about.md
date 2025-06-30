@@ -13,7 +13,7 @@ Hi there, this is Teng Li. I am a second-year Ph.D. student at [HKUST](https://h
 
 - Ph.D. in Electronic and Computer Engineering, HKUST, 2023-now
   - Supervisor: Prof. Jun Zhang
-- B.Eng. in Computer Science, Tongji University, 2018-2022
+- B.Eng. in Mechanical Engineering, Tongji University, 2018-2022
   - Supervisor: Prof. Changhong Fu
 
 ## Publications
