@@ -31,7 +31,7 @@ Hi there, this is Teng Li. I am a second-year Ph.D. student at [HKUST](https://h
   Jiawei Shao, **Teng Li**, Jun Zhang  
   IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2024. [[Paper](https://arxiv.org/abs/2407.20748)]
 
-* Scale-Aware Domain Adaptation for Robust UAV Tracking,
+* Scale-Aware Domain Adaptation for Robust UAV Tracking,  
   Changhong Fu, **Teng Li**, Junjie Ye, Guangze Zheng, Sihang Li, Peng Lu  
   IEEE Robotics and Automation Letters (RA-L), 2024.  [[Paper](https://ieeexplore.ieee.org/document/10111056)], [[Code](https://github.com/vision4robotics/ScaleAwareDA)]
 
