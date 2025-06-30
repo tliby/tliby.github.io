@@ -21,7 +21,7 @@ repository               : "tliby/tliby.github.io"
 author:
   # Biographic information
   name             : "Teng Li"
-  # avatar           : "profile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D. student at HKUST"
   location         : "Hong Kong"
   uri              : # URL
