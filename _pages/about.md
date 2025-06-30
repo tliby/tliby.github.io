@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Biography"
+title: ""
+excerpt: "About me"
 author_profile: true
-header: false
 redirect_from: 
   - /about/
   - /about.html
@@ -44,3 +44,7 @@ Hi there, this is Teng Li. I am a second-year Ph.D. student at [HKUST](https://h
 * Excellent Graduate of Shanghai, 2022
 * National Scholarship, 2019
 
+## Contact
+
+E-mail: tliby[AT]connect.ust.hk
+WeChat: lt94150952
