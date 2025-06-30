@@ -2,10 +2,13 @@
 permalink: /
 title: "Biography"
 author_profile: true
+header: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## Biography
 
 Hi there, this is Teng Li. I am a second-year Ph.D. student at [HKUST](https://hkust.edu.hk/), supervised by [Prof. Jun Zhang](https://eejzhang.people.ust.hk/). I am currently interested in building unified models for advanced visual generation and multimodal reasoning.
 
